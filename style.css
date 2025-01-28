@@ -348,12 +348,12 @@ section {
 }
 
 .btn2 {
-    color: #1f2937;
+    color: #677283;
     font-size: 22px;
 }
 
 .btn2:hover{
-    outline: 2px solid #1f2937;
+    outline: 3px solid #1f2937;
     background: white   ;
 }
 /*------------------- End Portfolio Section -------------------*/
